@@ -1,0 +1,8 @@
+mult $a0 $a1
+div $a2 $a3
+mult $s0 $s1
+mflo $v0
+div $s3 $t0
+mflo $s2
+div $t2 $t3
+mfhi $t1
